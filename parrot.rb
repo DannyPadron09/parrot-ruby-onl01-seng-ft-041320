@@ -1,5 +1,4 @@
-def parrot
-  return "Squawk!"
-end
+parrot = "Squawk!"
+
 
 
