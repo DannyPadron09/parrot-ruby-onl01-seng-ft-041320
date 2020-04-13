@@ -3,6 +3,12 @@ def parrot
   return "Squawk!"
 end
 
+def parrot(name)
+  puts "Squawk! #{name}"
+  return "Squawk! #{name}"
+end
+
+
 
 
 
