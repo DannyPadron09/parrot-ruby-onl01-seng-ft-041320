@@ -1,13 +1,7 @@
-def parrot
-  puts "Squawk!"
-  return "Squawk!"
+def parrot(string="Squawk!")
+  puts "#{string}"
+  "#{string}"
 end
-
-def parrot(name)
-  puts "Squawk! #{name}"
-  return "Squawk! #{name}"
-end
-
 
 
 
